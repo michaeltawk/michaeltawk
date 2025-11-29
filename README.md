@@ -31,5 +31,5 @@ A lightweight application that helps users track daily habits and consistency ov
 - **ML / Logic:** ML-driven signals, rule engines, LLM-assisted workflows
 
 ### 🔗 Links
-- X (Twitter): https://x.com/fixfan0000
+- X (Twitter): https://x.com/michaeltawk
 - GitHub: https://github.com/michaeltawk
