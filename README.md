@@ -11,8 +11,18 @@ In my day-to-day role, I design and maintain:
 Alongside my work, I build **side projects** focused on automation and decision-making.
 
 ### 🔹 Current Side Project
-**Walter 🤖📈** — an automated trading & decision engine  
-Walter stores inputs, model decisions, and performance metrics to create **decision history** and enable continuous strategy improvement over time.
+**Walter 🤖📈** — an **LLM-driven trading & decision engine**
+
+Walter uses **large language models (LLMs)** to reason over market data, signals, and contextual inputs in order to **make trading decisions**.  
+Each decision is persisted alongside its inputs, rationale, and outcomes, creating a **decision history layer** that enables evaluation, iteration, and continuous improvement over time.
+
+### 🔹 Other Projects
+
+**DAURA** — an AI-based system for **DA (disadvanted area) detection**  
+A computer-vision project focused on detecting and localizing damaged areas in spatial/visual data, leveraging machine learning for automated analysis and classification.
+
+**Habit Tracker ✅** — a simple habit-tracking web application  
+A lightweight application that helps users track daily habits and consistency over time, focusing on clean UX, persistence, and actionable progress insights.
 
 ### 🛠 Tech Stack
 - **Backend:** Python, FastAPI
